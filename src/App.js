@@ -7,6 +7,7 @@ import Contact from './pages/Contact';
 import NotFound from './pages/NotFound';
 
 import './App.css';
+import './scripts/bootstrap/bootstrap';
 
 function App() {
   return (
