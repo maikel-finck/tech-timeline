@@ -1,0 +1,337 @@
+[
+  {
+    "year": 1997,
+    "languages": [
+      "IRC Chat Bots (security, black list, moderation, registration, help)",
+      "IRC Game Bots (Text-based RPG, Trivia, PVP, Virtual pet simulation)",
+      "DOS Batch Scripts",
+      "PHP 3"
+    ],
+    "os": [
+      "MS-DOS",
+      "Windows 95"
+    ],
+    "focus": [
+      "Chat Bot development",
+      "Web development"
+    ],
+    "hobby": []
+  },
+  {
+    "year": 1998,
+    "languages": [ 1997 ],
+    "software": [
+      "Broderbund Fantavision (vector graphics animation)"
+    ],
+    "os": [
+      "Apple 2",
+      1997
+    ],
+    "focus": [1997],
+    "hobby": []
+  },
+  {
+    "year": 1999,
+    "languages": [
+      "Action Script",
+      "C, C++",
+      1998
+    ],
+    "software": [
+      "Microsoft Frontpage (web design)",
+      "Adobe Flash 3 (multimedia, animation and game development)"
+    ],
+    "os": [
+      "MS-DOS",
+      "Windows 98"
+    ],
+    "focus": [1998],
+    "hobby": [
+      "Game development"
+    ]
+  },
+  {
+    "year": 2000,
+    "languages": [
+      "Visual Basic",
+      1999
+    ],
+    "software": [
+      "Adobe Flash 4 (multimedia, animation and game development)"
+    ],
+    "os": [
+      "Windows 98 SE",
+      "Windows Me (Millennium)"
+    ],
+    "focus": [1999],
+    "hobby": [1999]
+  },
+  {
+    "year": 2001,
+    "languages": [
+      "PHP 4",
+      "Dark Basic (VB for game development)",
+      2000
+    ],
+    "software": [ 2000 ],
+    "os": [
+      "Windows 98 SE"
+    ],
+    "focus": [2000],
+    "hobby": [2000]
+  },
+  {
+    "year": 2002,
+    "languages": [
+      "PHP 4",
+      "ASP",
+      "Action Script",
+      "IRC Chat Bots (security, black list, moderation, registration, help)",
+      "IRC Game Bots (Text-based RPG, Trivia, PVP, Virtual pet simulation)"
+    ],
+    "software": [ 2001 ],
+    "os": [
+      "Windows XP"
+    ],
+    "focus": [2001],
+    "hobby": [2001]
+  },
+  {
+    "year": 2003,
+    "languages": [
+      "PHP 4",
+      "ASP",
+      "Action Script"
+    ],
+    "software": [ 2002 ],
+    "os": [ 2002 ],
+    "focus": [
+      "Web development"
+    ],
+    "hobby": []
+  },
+  {
+    "year": 2004,
+    "languages": [ 2003 ],
+    "database": [
+      "MySQL"
+    ],
+    "software": [ 2003 ],
+    "os": [ 2003 ],
+    "focus": [],
+    "hobby": []
+  },
+  {
+    "year": 2005,
+    "languages": [
+      "PHP 5",
+      "Action Script"
+    ],
+    "database": [ 2004 ],
+    "software": [ 2004 ],
+    "os": [ 2004 ],
+    "focus": [],
+    "hobby": []
+  },
+  {
+    "year": 2006,
+    "languages": [ 2005 ],
+    "database": [ 2005 ],
+    "software": [ 2005 ],
+    "os": [ 2005 ],
+    "focus": [],
+    "hobby": []
+  },
+  {
+    "year": 2007,
+    "languages": [
+      "PHP 5",
+      "Action Script 3",
+      "Visual Basic 6",
+      "ASP"
+    ],
+    "database": [2006],
+    "software": [2006],
+    "os": [2006],
+    "focus": [],
+    "hobby": []
+  },
+  {
+    "year": 2008,
+    "languages": [
+      "PHP 5"
+     ],
+    "database": [
+      "SQL Server",
+      "Oracle",
+      2007
+     ],
+    "software": [ 2007 ],
+    "os": [ 2007 ],
+    "focus": [2007],
+    "hobby": [2007]
+  },
+  {
+    "year": 2009,
+    "languages": [ 2008 ],
+    "database": [ 2008 ],
+    "software": [ 2008 ],
+    "os": [ 2008 ],
+    "focus": [ 2008 ],
+    "hobby": [ 2008 ]
+  },
+  {
+    "year": 2010,
+    "languages": [
+      "Unreal Engine",
+      2009
+    ],
+    "database": [ 2009 ],
+    "software": [ 2009 ],
+    "os": [ 2009 ],
+    "focus": [ 2009 ],
+    "hobby": [ 2009 ]
+  },
+  {
+    "year": 2011,
+    "languages": [
+      "PHP 5"
+    ],
+    "database": [ 2010 ],
+    "software": [ 2010 ],
+    "os": [ 2010 ],
+    "focus": [ 2010 ],
+    "hobby": [ 2010 ]
+  },
+  {
+    "year": 2012,
+    "languages": [ 2011 ],
+    "database": [ 2011 ],
+    "software": [ 2011 ],
+    "os": [ 2011 ],
+    "focus": [ 2011 ],
+    "hobby": [ 2011 ]
+  },
+  {
+    "year": 2013,
+    "languages": [
+      "Python",
+      "Unity 3D",
+      2012
+    ],
+    "database": [ 2012 ],
+    "software": [ 2012 ],
+    "os": [ 2012 ],
+    "focus": [ 2012 ],
+    "hobby": [ 2012 ]
+  },
+  {
+    "year": 2014,
+    "languages": [
+      "PHP 5",
+      "Python"
+    ],
+    "database": [ 2013 ],
+    "software": [ 2013 ],
+    "os": [ 2013 ],
+    "focus": [ 2013 ],
+    "hobby": [ 2013 ]
+  },
+  {
+    "year": 2015,
+    "languages": [
+      "PHP 5"
+    ],
+    "database": [ 2014 ],
+    "software": [ 2014 ],
+    "os": [ 2014 ],
+    "focus": [ 2014 ],
+    "hobby": [ 2014 ]
+  },
+  {
+    "year": 2016,
+    "languages": [
+      "Unity 3D",
+      2015
+    ],
+    "database": [ 2015 ],
+    "software": [ 2015 ],
+    "os": [ 2015 ],
+    "focus": [ 2015 ],
+    "hobby": [ 2015 ]
+  },
+  {
+    "year": 2017,
+    "languages": [
+      "PHP 5",
+      "PHP 7",
+      "Python"
+    ],
+    "database": [ 2016 ],
+    "software": [ 2016 ],
+    "os": [ 2016 ],
+    "focus": [ 2016 ],
+    "hobby": [ 2016 ]
+  },
+  {
+    "year": 2018,
+    "languages": [
+      "Angular JS",
+      2017
+    ],
+    "database": [ 2017 ],
+    "software": [ 2017 ],
+    "os": [ 2017 ],
+    "focus": [ 2017 ],
+    "hobby": [ 2017 ]
+  },
+  {
+    "year": 2019,
+    "languages": [
+      "PHP 7",
+      "Java 8 (spring boot netflix)",
+      "Angular 6"
+    ],
+    "database": [ 2018 ],
+    "software": [ 2018 ],
+    "os": [ 2018 ],
+    "focus": [ 2018 ],
+    "hobby": [ 2018 ]
+  },
+  {
+    "year": 2020,
+    "languages": [
+      "PHP 5",
+      "PHP 7",
+      "Angular 6"
+    ],
+    "database": [ 2019 ],
+    "software": [ 2019 ],
+    "os": [ 2019 ],
+    "focus": [ 2019 ],
+    "hobby": [ 2019 ]
+  },
+  {
+    "year": 2021,
+    "languages": [
+      "PHP 5"
+    ],
+    "database": [ 2020 ],
+    "software": [ 2020 ],
+    "os": [ 2020 ],
+    "focus": [ 2020 ],
+    "hobby": [ 2020 ]
+  },
+  {
+    "year": 2022,
+    "languages": [
+      "PHP 5",
+      "PHP 7"
+    ],
+    "database": [ 2021 ],
+    "software": [ 2021 ],
+    "os": [ 2021 ],
+    "focus": [ 2021 ],
+    "hobby": [ 2021 ]
+  }
+]
