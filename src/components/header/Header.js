@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Form } from "react-bootstrap";
 import * as Icons from "react-bootstrap-icons";
 
 const Header = () => {
@@ -22,6 +23,13 @@ const Header = () => {
               </div>
             </div>
             <div className="col"></div>
+            <div className="col-auto search">
+              <Form>
+                <Form.Group controlId="formSearch">
+                  <Form.Control type="text" placeholder="Search" aria-label="Search" />
+                </Form.Group>
+              </Form>
+            </div>
             <div className="col-auto">
               <a href="https://ciandt.com/" className="external logos ciandt" target="_blank">
                 <img src="assets/header/ciandt-logo.svg" alt="CI&amp;T website" />

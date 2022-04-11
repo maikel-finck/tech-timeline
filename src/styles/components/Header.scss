@@ -27,6 +27,12 @@
     font-size: $font-size-s;
   }
 
+  .search {
+    input {
+      width: 90%;
+    }
+  }
+
   .logos {
     img {
       max-height: 32px;
