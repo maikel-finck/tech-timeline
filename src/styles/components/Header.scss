@@ -20,6 +20,12 @@
     font-size: $font-size-s;
   }
 
+  .logos {
+    img {
+      max-height: 32px;
+    }
+  }
+
   .icons {
     &.linkedin {
       color: #0e76a8;

@@ -23,6 +23,11 @@ const Header = () => {
             </div>
             <div className="col"></div>
             <div className="col-auto">
+              <a href="https://ciandt.com/" className="external logos ciandt" target="_blank">
+                <img src="https://ciandt.com/themes/custom/ciandt_theme/logo.svg" alt="CI&amp;T website" />
+              </a>
+            </div>
+            <div className="col-auto">
               <a href="https://www.linkedin.com/in/maikel-p-c-finck-85151a26" className="external icons linkedin" target="_blank">
                 <Icons.Linkedin size={32} />
               </a>
