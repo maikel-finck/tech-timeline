@@ -7,7 +7,7 @@ const Header = () => {
   });
   return (
     <>
-      <div className="container-fluid header border-bottom shadow">
+      <header className="container-fluid header border-bottom shadow fixed-top">
         <div className="container bar">
           <div className="row align-items-center">
             <div className="col-auto">
@@ -24,7 +24,7 @@ const Header = () => {
             <div className="col"></div>
             <div className="col-auto">
               <a href="https://ciandt.com/" className="external logos ciandt" target="_blank">
-                <img src="https://ciandt.com/themes/custom/ciandt_theme/logo.svg" alt="CI&amp;T website" />
+                <img src="assets/header/ciandt-logo.svg" alt="CI&amp;T website" />
               </a>
             </div>
             <div className="col-auto">
@@ -34,10 +34,8 @@ const Header = () => {
             </div>
           </div>
         </div>
-      </div>
-      <div className="container-fluid post-header">
-
-      </div>
+      </header>
+      <div className="container-fluid post-header"></div>
     </>
   );
 };
