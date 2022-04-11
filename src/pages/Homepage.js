@@ -1,6 +1,7 @@
 import Header from '../components/header/Header';
 import Footer from '../components/footer/Footer';
 import YearList from '../components/navigation/YearList';
+import YearContent from '../components/content/YearContent';
 
 const Homepage = () => {
   return (
@@ -11,6 +12,7 @@ const Homepage = () => {
           <div className="row">
             <div className="col">
               <h1 className="title">Tech Timeline: Homepage</h1>
+              <YearContent />
             </div>
             <div className="col-auto">
               <YearList />

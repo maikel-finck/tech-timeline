@@ -17,3 +17,11 @@
   padding-right: 0;
   padding-left: 0;
 }
+
+
+
+.year-section {
+  &:nth-child(odd) {
+    background-color: $gray-200;
+  }
+}
